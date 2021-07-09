@@ -1,0 +1,8 @@
+.about-ceo img {
+  width: 85%;
+}
+@media (max-width: 767px) {
+  .about-ceo .row {
+    text-align: center;
+  }
+}
